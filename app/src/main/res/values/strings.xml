@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SancaTour</string>
+    <string name="plain1">Nome do lugar</string>
+    <string name="plain2">Latitude</string>
+    <string name="plain3">Longitude</string>
+    <string name="btn">Enviar</string>
+</resources>

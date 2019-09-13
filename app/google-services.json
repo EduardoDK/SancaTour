@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375984880147",
+    "firebase_url": "https://sancatour-cf8e2.firebaseio.com",
+    "project_id": "sancatour-cf8e2",
+    "storage_bucket": "sancatour-cf8e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375984880147:android:13dacf0009ff147c9f1de6",
+        "android_client_info": {
+          "package_name": "com.example.sancatour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375984880147-basta5c9r0cmhk6seootb0ucfaanbv8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sancatour",
+            "certificate_hash": "9e6a443ae1d42fa00107ebd0aa258ad99625359a"
+          }
+        },
+        {
+          "client_id": "375984880147-neqchlk63fi36avt1qioqsro2r584c61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85ziBpsOpLwzw3EbhPyDM_a7wH7EHcZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375984880147-neqchlk63fi36avt1qioqsro2r584c61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
